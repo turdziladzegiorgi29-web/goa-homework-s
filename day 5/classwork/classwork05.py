@@ -1,0 +1,25 @@
+age=12
+age=13
+print(age)
+iphone=69
+print(iphone)
+#that was an error
+num1=67
+num2=69
+multiply=num1*num2
+print(multiply)
+print(7634%4)
+print(982%3)
+print(12345%3)
+print(4623%67)
+name="giorgi"
+print(name)
+name="vano"
+Name="nika"
+NAME="saba"
+print(Name)
+age=23
+print(age)
+num=34
+print(num)
+print("five"*3)
