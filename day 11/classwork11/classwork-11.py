@@ -18,4 +18,4 @@ asaki=18
 print(asaki >= 18 and 10 == 10)
 
 random = "saba"
---print("saba" == random  or 17 % 2 == 0)
+print("saba" == random  or 17 % 2 == 0)
