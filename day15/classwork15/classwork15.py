@@ -27,11 +27,3 @@
 # else: 
 #     print(False)
 
-num3=int(input())
-num4=int(input())
-if num3 == num4:
-    print("perfect ngas")
-elif num3 > num4:
-    print('more')
-else: 
-    print("less")
